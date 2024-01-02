@@ -8,5 +8,11 @@ Technologies:
 
 ====================
 
+Deployment: Azure App Service
+
+====================
+
 Key Features: 
 - Patients participate in surveys on the quality of hospital services.
+
+====================
