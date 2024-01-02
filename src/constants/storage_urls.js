@@ -1,0 +1,1 @@
+export const URL_IMG = "https://hsestorage71.blob.core.windows.net/images/";

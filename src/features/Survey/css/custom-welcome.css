@@ -1,0 +1,14 @@
+.MuiInputBase-root {
+    background-color: white;
+}
+
+.res-wel {
+    padding: 0 250px;
+}
+
+@media screen and (max-width: 992px) {
+    .res-wel {
+        padding: 0 20px;
+    }
+
+}
